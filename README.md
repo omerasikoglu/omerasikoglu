@@ -6,15 +6,15 @@
 >I'm currently joined Rollic & oFON Hyper-Casual Mobile Game Development Bootcamp. Making new friends and sailing on new adventures..
 
 🔭 I’m currently working on
-
+>Actually I'm working on successfully graduate from bootcamp
 
 🌱 I’ve knowledge about:
- - [] SOLID Principles
- - [] Sourcetree
- - [] Object Pooling
- - [] Cinemachine
- - [] DOTween
- - [] Observer/Command/State/etc. patterns
+ - [x] SOLID Principles
+ - [x] Sourcetree
+ - [x] Object Pooling
+ - [x] Cinemachine
+ - [x] DOTween
+ - [x] Observer/Command/State/etc. patterns
  
 💬 Ask me about ...
 
