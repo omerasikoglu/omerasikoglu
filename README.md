@@ -1,9 +1,7 @@
 # Hello everyone👋
 ### Omer Asikoglu is here! Who am I?
-I'm a indie game developer which is using Unity and C# actively.
-
-
-- ⚡ I'm currently joined Rollic & oFON Hyper-Casual Mobile Game Development Bootcamp
+* I'm a indie game developer which is using Unity and C# actively.
+- ⚡ I'm currently joined Rollic & oFON Hyper-Casual Mobile Game Development Bootcamp. Making new friends and sailing on new adventures..
 - 🔭 I’m currently working on
 - 🌱 I’m currently learning ... 
 - 💬 Ask me about ...
