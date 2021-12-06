@@ -9,12 +9,12 @@
 
 
 🌱 I’ve knowledge about:
- [+] SOLID Principles
- [+] Sourcetree
- [+] Object Pooling
- [+] Cinemachine
- [+] DOTween
- [+] Observer/Command/State/etc. patterns
+ [x] SOLID Principles
+ [x] Sourcetree
+ [x] Object Pooling
+ [x] Cinemachine
+ [x] DOTween
+ [x] Observer/Command/State/etc. patterns
  
 💬 Ask me about ...
 
