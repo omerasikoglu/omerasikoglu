@@ -14,8 +14,8 @@
  - [x] Object Pooling
  - [x] Cinemachine
  - [x] DOTween
- - [x] Observer/Command/State/etc. patterns
- 
+ - [x] Patterns
+   - Observer/Command/State/etc. patterns
 💬 Ask me about ...
 
 
