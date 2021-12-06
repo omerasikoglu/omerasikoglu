@@ -2,7 +2,7 @@
 ### Omer Asikoglu is here! Who am I?
 >I'm a indie game developer which is using **Unity** and **C#** actively.
 
-**:four_leaf_clover: What are you doing recently?**
+**:four_leaf_clover: What are you doing recently?
 >I'm currently joined Rollic & oFON Hyper-Casual Mobile Game Development Bootcamp. Making new friends and sailing on new adventures..
 
 **:rainbow: What is your achievements?
