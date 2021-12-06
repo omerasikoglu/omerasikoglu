@@ -1,4 +1,4 @@
-# Hello everyone👋
+# Hello everyone:vulcan_salute:
 ### Omer Asikoglu is here! Who am I?
 >I'm a indie game developer which is using Unity and C# actively.
 
@@ -10,7 +10,7 @@
 
 🌱 I’ve knowledge about:
  - [x] SOLID Principles 
- - [ ] Sourcetree
+ - [X] Sourcetree
  - [x] Object Pooling
  - [x] Cinemachine
  - [x] DOTween
