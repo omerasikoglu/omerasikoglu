@@ -2,10 +2,10 @@
 ### Omer Asikoglu is here! Who am I?
 >I'm a indie game developer which is using Unity and C# actively.
 
-**⚡What are you doing recently?**
+**:tropical_fish:What are you doing recently?:tropical_fish:**
 >I'm currently joined Rollic & oFON Hyper-Casual Mobile Game Development Bootcamp. Making new friends and sailing on new adventures..
 
-**⚡What're you currently working on?**
+**:whale2:What're you currently working on?**
 >Actually I'm working on successfully graduate from bootcamp
 
 **⚡Do you knowledge about anything?**
@@ -20,7 +20,7 @@
    - State
    - Flyweight etc.
 
-**#:dragon_face: #####What is your hobbies?#:dragon_face:**
+**:dragon_face:What is your hobbies?:dragon_face:**
 > Dragons.. plural..
 
 
