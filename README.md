@@ -10,7 +10,7 @@
 
 **:four_leaf_clover: Do you knowledge about anything?**
  
- Believe or not I have:
+ >I have:
  - [x] SOLID Principles 
  - [X] Sourcetree
  - [x] Object Pooling
