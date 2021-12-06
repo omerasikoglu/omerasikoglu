@@ -23,15 +23,13 @@
  >- [x] Cinemachine
  >- [x] DOTween
  >- [x] Patterns
- >  - Observer
+ >  - _Observer
  >  - Command
  >  - State
- >  - Flyweight etc.
+ >  - Flyweight etc._
 
 **:dragon_face:What is your hobbies?:dragon_face:**
 > Dragons.. plural..
 
-
-**:anchor: How to reach me:**
+**:anchor: How to reach me?**
    - https://www.linkedin.com/in/omerasikoglu/
-   - https://www.twitch.tv/omerasik
