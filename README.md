@@ -7,5 +7,5 @@
 - 🌱 I’m currently learning ... 
 - 💬 Ask me about ...
 - 📫 How to reach me:
-     - https://www.linkedin.com/in/omerasikoglu/
-     - https://www.twitch.tv/omerasik
+   - https://www.linkedin.com/in/omerasikoglu/
+   - https://www.twitch.tv/omerasik
