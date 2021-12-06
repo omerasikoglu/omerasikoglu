@@ -15,8 +15,12 @@
  - [x] Cinemachine
  - [x] DOTween
  - [x] Patterns
-   - Observer/Command/State/etc. patterns
-💬 Ask me about ...
+   - Observer
+   - Command
+   - State
+   - Flyweight etc.
+💬 What is your hobbies?
+> Dragons.. plural..
 
 
 - 📫 How to reach me:
