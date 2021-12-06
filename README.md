@@ -4,9 +4,21 @@
 
 ⚡ **What are you doing recently?**
 >I'm currently joined Rollic & oFON Hyper-Casual Mobile Game Development Bootcamp. Making new friends and sailing on new adventures..
-- 🔭 I’m currently working on
-- 🌱 I’m currently learning ... 
-- 💬 Ask me about ...
+
+🔭 I’m currently working on
+
+
+🌱 I’ve knowledge about:
+ [+] SOLID Principles
+ [+] Sourcetree
+ [+] Object Pooling
+ [+] Cinemachine
+ [+] DOTween
+ [+] Observer/Command/State/etc. patterns
+ 
+💬 Ask me about ...
+
+
 - 📫 How to reach me:
    - https://www.linkedin.com/in/omerasikoglu/
    - https://www.twitch.tv/omerasik
