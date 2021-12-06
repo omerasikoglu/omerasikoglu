@@ -1,4 +1,4 @@
-# Hello everyone:vulcan_salute:
+# Hello everyone:vulcan_salute:mage::
 ### Omer Asikoglu is here! Who am I?
 >I'm a indie game developer which is using Unity and C# actively.
 
@@ -8,7 +8,7 @@
 **⚡What're you currently working on?**
 >Actually I'm working on successfully graduate from bootcamp
 
-**⚡Dou you knowledge about anything?**
+**⚡Do you knowledge about anything?**
  - [x] SOLID Principles 
  - [X] Sourcetree
  - [x] Object Pooling
@@ -24,6 +24,6 @@
 > Dragons.. plural..
 
 
-**- 📫 How to reach me:**
+**:angel: How to reach me:**
    - https://www.linkedin.com/in/omerasikoglu/
    - https://www.twitch.tv/omerasik
