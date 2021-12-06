@@ -6,7 +6,7 @@
 >I'm currently joined Rollic & oFON Hyper-Casual Mobile Game Development Bootcamp. Making new friends and sailing on new adventures..
 
 **:rainbow: What is your achievements?**
->- I graduated **Sakarya University Computer Engineering Department ** in 2020.
+>- I graduated **Sakarya University Computer Engineering Department** in 2020.
 >- I took from C1 English Certificate from American Cultural School in 2019.
 >- Created PC platformer game at my Graduation Thesis.
 >- Created mobile augmented reality tower defense game at my Hardware Internship.
