@@ -1,6 +1,6 @@
 # Hello everyone👋
-## Omer Asikoglu is here!
-### Who am I?
+### Omer Asikoglu is here! 
+Who am I?
 I'm a indie game developer which is using Unity and C# actively.
 
 
