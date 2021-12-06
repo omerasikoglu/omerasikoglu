@@ -23,10 +23,10 @@
  >- [x] Cinemachine
  >- [x] DOTween
  >- [x] Patterns
- >  - _Observer
- >  - Command
- >  - State
- >  - Flyweight etc._
+ >  - _Observer_
+ >  - _Command_
+ >  - _State_
+ >  - _Flyweight etc._
 
 **:dragon_face:What is your hobbies?:dragon_face:**
 > Dragons.. plural..
