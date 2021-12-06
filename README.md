@@ -9,7 +9,7 @@
 >Actually I'm working on successfully graduate from bootcamp
 
 🌱 I’ve knowledge about:
- - [x] SOLID Principles [x] Sourcetree
+ - [x] SOLID Principles - [x] Sourcetree
  - [x] Object Pooling
  - [x] Cinemachine
  - [x] DOTween
