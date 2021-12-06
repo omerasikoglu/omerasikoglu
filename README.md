@@ -1,4 +1,4 @@
-# Hello everyone:vulcan_salute::mage::
+# Hello everyone:mage:
 ### Omer Asikoglu is here! Who am I?
 >I'm a indie game developer which is using Unity and C# actively.
 
@@ -20,7 +20,7 @@
    - State
    - Flyweight etc.
 
-**💬 What is your hobbies?**
+**:dragon_face: What is your hobbies?:dragon_face:**
 > Dragons.. plural..
 
 
