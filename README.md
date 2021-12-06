@@ -2,7 +2,7 @@
 
 - ⚡ I'm currently joined Rollic & oFON Hyper-Casual Mobile Game Development Bootcamp
 - 🔭 I’m currently working on
-- - asd
+* asd
 - 🌱 I’m currently learning ... 
 - 💬 Ask me about ...
 - 📫 How to reach me:
