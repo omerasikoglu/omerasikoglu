@@ -11,16 +11,16 @@
 **:four_leaf_clover: Do you knowledge about anything?**
  
  >I have:
- - [x] SOLID Principles 
- - [X] Sourcetree
- - [x] Object Pooling
- - [x] Cinemachine
- - [x] DOTween
- - [x] Patterns
-   - Observer
-   - Command
-   - State
-   - Flyweight etc.
+ >- [x] SOLID Principles 
+ >- [X] Sourcetree
+ >- [x] Object Pooling
+ >- [x] Cinemachine
+ >- [x] DOTween
+ >- [x] Patterns
+ >  - Observer
+ >  - Command
+ >  - State
+ >  - Flyweight etc.
 
 **:dragon_face:What is your hobbies?:dragon_face:**
 > Dragons.. plural..
