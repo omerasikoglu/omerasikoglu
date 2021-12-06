@@ -9,6 +9,7 @@
 >Actually I'm working on successfully graduate from bootcamp
 
 **:four_leaf_clover: Do you knowledge about anything?**
+Haha I have:
  - [x] SOLID Principles 
  - [X] Sourcetree
  - [x] Object Pooling
