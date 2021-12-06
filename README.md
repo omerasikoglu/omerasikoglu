@@ -16,7 +16,7 @@
 
 **:tropical_fish: Do you knowledge about anything?**
  
- >I have.
+ >Yes I do!
  >- [x] SOLID Principles 
  >- [X] Sourcetree
  >- [x] Object Pooling
