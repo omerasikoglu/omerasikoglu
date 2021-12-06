@@ -14,7 +14,7 @@
 **:whale2: What're you currently working on?**
 >Actually I'm working on successfully graduate from bootcamp
 
-**:tropical_fish: Do you knowledge about anything?**
+**:anchor: Do you knowledge about anything?**
  
  >Yes I do!
  >- [x] SOLID Principles 
@@ -31,5 +31,5 @@
 **:dragon_face:What is your hobbies?:dragon_face:**
 > Dragons.. plural..
 
-**:anchor: How to reach me?**
+**:tropical_fish: How to reach me?**
 >https://www.linkedin.com/in/omerasikoglu/
