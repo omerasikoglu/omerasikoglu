@@ -1,5 +1,5 @@
-# Hello everyone:mage:
-### Omer Asikoglu is here! ***Who am I?***
+# Hello everyone!:mage:
+### Omer Asikoglu is here.***Who am I?***
 >I'm a indie game developer which is using **Unity** and **C#** actively.
 
 **:four_leaf_clover: What are you doing recently?**
