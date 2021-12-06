@@ -32,4 +32,4 @@
 > Dragons.. plural..
 
 **:anchor: How to reach me?**
-   - https://www.linkedin.com/in/omerasikoglu/
+>- https://www.linkedin.com/in/omerasikoglu/
