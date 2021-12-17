@@ -32,5 +32,5 @@
 > Dragons.. plural..
 
 **:tropical_fish: How to reach me?**
->https://www.linkedin.com/in/omerasikoglu/
->https://martelius.itch.io
+>- https://www.linkedin.com/in/omerasikoglu/
+>- https://martelius.itch.io
