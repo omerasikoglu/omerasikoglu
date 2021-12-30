@@ -5,9 +5,9 @@
 **:four_leaf_clover: What are you doing recently?**
 >I'm recently joined **Rollic & oFON Hyper-Casual Mobile Game Development Bootcamp**. _Making new friends and sailing on new adventures.._
 > ALL PROJECTS
->- [Project 1](https://drive.google.com/file/d/1eHmsuyqpdO4nrmYG2zQ_ZEYlxum4Fv_f/view)
->- [Project 2](https://drive.google.com/file/d/162YmPytyYFBvxmrFhnuZNb8bZWpVfji8/view)
->- [Project 3](https://drive.google.com/file/d/1sJpPvig2I45WApjglh_O9WEPux71u_o5/view)
+>- [Project 1 - HC Games](https://drive.google.com/file/d/1eHmsuyqpdO4nrmYG2zQ_ZEYlxum4Fv_f/view)
+>- [Project 2 - GDD](https://drive.google.com/file/d/162YmPytyYFBvxmrFhnuZNb8bZWpVfji8/view)
+>- [Project 3 - GDD Favorites](https://drive.google.com/file/d/1sJpPvig2I45WApjglh_O9WEPux71u_o5/view)
 >- [Week3 - First of Us](https://github.com/KodluyoruzDev147/H3-OmerAsikoglu-FirstOfUs)
 >- [Week4 - Flappy Bird](https://github.com/Rollic-oFON-Game-Development-Bootcamp/flappy-bird-omerasikoglu)
 
