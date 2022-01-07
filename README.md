@@ -8,7 +8,7 @@
 >- [Project 2 - GDD](https://drive.google.com/file/d/162YmPytyYFBvxmrFhnuZNb8bZWpVfji8/view)
 >- [Project 3 - GDD Favorites](https://drive.google.com/file/d/1sJpPvig2I45WApjglh_O9WEPux71u_o5/view)
 >- [Week3 - First of Us](https://github.com/KodluyoruzDev147/H3-OmerAsikoglu-FirstOfUs)
->- [Week4 - Flappy Bird](https://github.com/Rollic-oFON-Game-Development-Bootcamp/flappy-bird-omerasikoglu)
+>- [Week4 - Slappy Bird](https://github.com/Rollic-oFON-Game-Development-Bootcamp/flappy-bird-omerasikoglu)
 
 **:rainbow: What is your achievements?**
 >- I graduated **Sakarya University Computer Engineering Department** _in 2020._
