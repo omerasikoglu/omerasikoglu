@@ -4,12 +4,12 @@
 
 **:four_leaf_clover: What are you doing recently?**
 >- I'm recently joined **Rollic & oFON Hyper-Casual Mobile Game Development Bootcamp**. _Making new friends and sailing on new adventures.._
-<br>![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)  [Article 1 - HC Games](https://drive.google.com/file/d/1eHmsuyqpdO4nrmYG2zQ_ZEYlxum4Fv_f/view)
-<br> [Article 2 - GDD](https://drive.google.com/file/d/162YmPytyYFBvxmrFhnuZNb8bZWpVfji8/view)
-<br> [Article 3 - GDD Favorites](https://drive.google.com/file/d/1sJpPvig2I45WApjglh_O9WEPux71u_o5/view)
-<br> [Project 1 - First of Us](https://github.com/KodluyoruzDev147/H3-OmerAsikoglu-FirstOfUs)
-<br> [Project 2 - Slappy Bird](https://github.com/Rollic-oFON-Game-Development-Bootcamp/flappy-bird-omerasikoglu)
-<br> [Game Jam Project - Cupid Shop](https://github.com/SenaCelebi/Rollic-Bootcamp-Game-Jam.git)
+<br> ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) [Article 1 - HC Games](https://drive.google.com/file/d/1eHmsuyqpdO4nrmYG2zQ_ZEYlxum4Fv_f/view)
+<br> ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) [Article 2 - GDD](https://drive.google.com/file/d/162YmPytyYFBvxmrFhnuZNb8bZWpVfji8/view)
+<br> ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) [Article 3 - GDD Favorites](https://drive.google.com/file/d/1sJpPvig2I45WApjglh_O9WEPux71u_o5/view)
+<br> ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) [Project 1 - First of Us](https://github.com/KodluyoruzDev147/H3-OmerAsikoglu-FirstOfUs)
+<br> ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) [Project 2 - Slappy Bird](https://github.com/Rollic-oFON-Game-Development-Bootcamp/flappy-bird-omerasikoglu)
+<br> ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) [Game Jam Project - Cupid Shop](https://github.com/SenaCelebi/Rollic-Bootcamp-Game-Jam.git)
 
 **:rainbow: What is your achievements?**
 >- I graduated **Sakarya University Computer Engineering Department** _in 2020._
