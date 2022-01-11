@@ -9,6 +9,7 @@
 >- [Project 3 - GDD Favorites](https://drive.google.com/file/d/1sJpPvig2I45WApjglh_O9WEPux71u_o5/view)
 >- [Week3 - First of Us](https://github.com/KodluyoruzDev147/H3-OmerAsikoglu-FirstOfUs)
 >- [Week4 - Slappy Bird](https://github.com/Rollic-oFON-Game-Development-Bootcamp/flappy-bird-omerasikoglu)
+>- [Game Jam - Cupid Shop](https://github.com/SenaCelebi/Rollic-Bootcamp-Game-Jam.git)
 
 **:rainbow: What is your achievements?**
 >- I graduated **Sakarya University Computer Engineering Department** _in 2020._
