@@ -14,7 +14,7 @@
 ! test 
 ```
 ```html
-[color=red] some colored red
+[color=#FFFFFF] some colored red
 ```
 **:rainbow: What is your achievements?**
 >- I graduated **Sakarya University Computer Engineering Department** _in 2020._
