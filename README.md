@@ -38,8 +38,10 @@
 
 **:dragon_face:What is your hobbies?:dragon_face:**
 > Dragons.. plural..
-``` diff
+
 **:tropical_fish: How to reach me?**
 >- https://www.linkedin.com/in/omerasikoglu/
 >- https://martelius.itch.io
+
+``` diff
 ```
