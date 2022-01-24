@@ -3,7 +3,7 @@
 >I'm an indie game developer which is using **Unity** and **C#** actively.
 
 **:four_leaf_clover: What are you doing recently?**
->- I'm recently joined **Rollic & oFON Hyper-Casual Mobile Game Development Bootcamp**. _Making new friends and sailing on new adventures.._
+>- I recently joined **Rollic & oFON Hyper-Casual Mobile Game Development Bootcamp**. _Making new friends and sailing on new adventures.._
 
 <br> ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) [Article 1 - HC Games](https://drive.google.com/file/d/1eHmsuyqpdO4nrmYG2zQ_ZEYlxum4Fv_f/view)
 <br> ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) [Article 2 - GDD](https://drive.google.com/file/d/162YmPytyYFBvxmrFhnuZNb8bZWpVfji8/view)
