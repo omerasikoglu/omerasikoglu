@@ -23,20 +23,6 @@
 **:whale2: What're you currently working on?**
 >Actually I'm working on successfully graduate from bootcamp
 
-**:anchor: Do you knowledge about anything?**
- 
- >Yes I do!
- >- [x] SOLID Principles 
- >- [X] Sourcetree
- >- [x] Object Pooling
- >- [x] Cinemachine
- >- [x] DOTween
- >- [x] Patterns
- >   - _Observer_
- >   - _Command_
- >   - _State_
- >   - _Flyweight etc._
-
 **:dragon_face:What is your hobbies?:dragon_face:**
 > Dragons.. plural..
 
@@ -45,5 +31,5 @@
 >- https://martelius.itch.io
 
 ``` diff
-
+easter egg
 ```
