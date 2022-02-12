@@ -11,7 +11,6 @@
 >- Created PC platformer game at my **Capstone Course**.
 >- Created mobile augmented reality tower defense game at my **Hardware Internship**.
 >- Completed **Rollic & oFon Hyper-Casual Game Development Bootcamp** _in 2022._
-
 <br> ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) [Article 1 - HC Games](https://drive.google.com/file/d/1eHmsuyqpdO4nrmYG2zQ_ZEYlxum4Fv_f/view)
 <br> ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) [Article 2 - GDD](https://drive.google.com/file/d/162YmPytyYFBvxmrFhnuZNb8bZWpVfji8/view)
 <br> ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) [Article 3 - GDD Favorites](https://drive.google.com/file/d/1sJpPvig2I45WApjglh_O9WEPux71u_o5/view)
