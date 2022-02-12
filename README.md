@@ -12,8 +12,8 @@
 >- Created mobile augmented reality tower defense game at my **Hardware Internship**.
 >- Completed **Rollic & oFon Hyper-Casual Game Development Bootcamp** _in 2022._
 <br> ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) [Article 1 - HC Games](https://drive.google.com/file/d/1eHmsuyqpdO4nrmYG2zQ_ZEYlxum4Fv_f/view)
- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) [Article 2 - GDD](https://drive.google.com/file/d/162YmPytyYFBvxmrFhnuZNb8bZWpVfji8/view)
- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) [Article 3 - GDD Favorites](https://drive.google.com/file/d/1sJpPvig2I45WApjglh_O9WEPux71u_o5/view)
+    ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) [Article 2 - GDD](https://drive.google.com/file/d/162YmPytyYFBvxmrFhnuZNb8bZWpVfji8/view)
+    ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) [Article 3 - GDD Favorites](https://drive.google.com/file/d/1sJpPvig2I45WApjglh_O9WEPux71u_o5/view)
 <br> ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) [Project 1 - First of Us](https://github.com/KodluyoruzDev147/H3-OmerAsikoglu-FirstOfUs)
 <br> ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) [Project 2 - Slappy Bird](https://github.com/Rollic-oFON-Game-Development-Bootcamp/flappy-bird-omerasikoglu)
 <br> ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) [Project 3 - Caps Lock Invaders](https://github.com/Rollic-oFON-Game-Development-Bootcamp/space-invaders-omerasikoglu.git)
