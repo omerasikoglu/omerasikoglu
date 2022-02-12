@@ -11,14 +11,14 @@
 >- Created PC platformer game at my **Capstone Course**.
 >- Created mobile augmented reality tower defense game at my **Hardware Internship**.
 >- Completed **Rollic & oFon Hyper-Casual Game Development Bootcamp** _in 2022._
-|<br> ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) [Article 1 - HC Games](https://drive.google.com/file/d/1eHmsuyqpdO4nrmYG2zQ_ZEYlxum4Fv_f/view)
-|&emsp;![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) [Article 2 - GDD](https://drive.google.com/file/d/162YmPytyYFBvxmrFhnuZNb8bZWpVfji8/view)
-|&emsp;![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) [Article 3 - GDD Favorites](https://drive.google.com/file/d/1sJpPvig2I45WApjglh_O9WEPux71u_o5/view)
+<br> ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) [Article 1 - HC Games](https://drive.google.com/file/d/1eHmsuyqpdO4nrmYG2zQ_ZEYlxum4Fv_f/view)
+&emsp;![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) [Article 2 - GDD](https://drive.google.com/file/d/162YmPytyYFBvxmrFhnuZNb8bZWpVfji8/view)
+&emsp;![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) [Article 3 - GDD Favorites](https://drive.google.com/file/d/1sJpPvig2I45WApjglh_O9WEPux71u_o5/view)
 <br> ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) [Project 1 - First of Us](https://github.com/KodluyoruzDev147/H3-OmerAsikoglu-FirstOfUs)
-&emsp; ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) [Project 2 - Slappy Bird](https://github.com/Rollic-oFON-Game-Development-Bootcamp/flappy-bird-omerasikoglu)
-&emsp; ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) [Project 3 - Caps Lock Invaders](https://github.com/Rollic-oFON-Game-Development-Bootcamp/space-invaders-omerasikoglu.git)
+![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) [Project 2 - Slappy Bird](https://github.com/Rollic-oFON-Game-Development-Bootcamp/flappy-bird-omerasikoglu)
+![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) [Project 3 - Caps Lock Invaders](https://github.com/Rollic-oFON-Game-Development-Bootcamp/space-invaders-omerasikoglu.git)
 <br> ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) [Jam Project - Cupid Shop](https://github.com/SenaCelebi/Rollic-Bootcamp-Game-Jam.git)
-&emsp; ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) [Capstone Project - Magic Rush](https://github.com/omerasikoglu/Capstone-Runner)
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) [Capstone Project - Magic Rush](https://github.com/omerasikoglu/Capstone-Runner)
 
 **:dragon_face:What is your hobbies?:dragon_face:**
 > Dragons.. plural..
