@@ -18,7 +18,7 @@
 <br> ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) [Project 2 - Slappy Bird](https://github.com/Rollic-oFON-Game-Development-Bootcamp/flappy-bird-omerasikoglu)
 <br> ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) [Project 3 - Caps Lock Invaders](https://github.com/Rollic-oFON-Game-Development-Bootcamp/space-invaders-omerasikoglu.git)
 <br> ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) [Jam Project - Cupid Shop](https://github.com/SenaCelebi/Rollic-Bootcamp-Game-Jam.git)
-<br> ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) [Capstone Project - Magic Rush](https://github.com/omerasikoglu/Capstone-Runner) - [Play Store](https://play.google.com/store/apps/details?id=com.Haratampa.MagicRush)
+<br> ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) [Capstone Project - Magic Rush](https://github.com/omerasikoglu/Capstone-Runner) - [Play Store Link](https://play.google.com/store/apps/details?id=com.Haratampa.MagicRush)
 
 **:dragon_face:What is your hobbies?:dragon_face:**
 > Dragons.. plural..
