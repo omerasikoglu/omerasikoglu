@@ -3,7 +3,7 @@
 >I'm an indie game developer which is using **Unity** and **C#** actively.
 
 **:four_leaf_clover: What are you doing recently?**
->- I recently started to learning **Shader Graph**. _Trying to make my own cool visual effects_
+>- I recently continuing to coding my private project.
 
 **:rainbow: What is your achievements?**
 >- Graduated **Sakarya University Computer Engineering Department** _in 2020._
