@@ -3,7 +3,7 @@
 >I'm an indie game developer which is using **Unity** and **C#** actively.
 
 **:four_leaf_clover: What are you doing recently?**
->- I recently learning Unity Input System. (2022.03)
+>- I recently creating new Hyper Casual games. (2022.04)
 
 **:rainbow: What is your achievements?**
 >- Graduated **Sakarya University Computer Engineering Department** _in 2020._
