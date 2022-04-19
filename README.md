@@ -7,7 +7,7 @@
 
 **:rainbow: What is your achievements?**
 >- Graduated **Sakarya University Computer Engineering Department** _in 2020._
->- Took **C1 English Certificate** from **American Cultural School** _in 2019._
+>- Achieved **C1 English Certificate** from **American Cultural School** _in 2019._
 >- Created PC platformer game at my **Capstone Course**.
 >- Created mobile augmented reality tower defense game at my **Hardware Internship**.
 >- Completed **Rollic & oFon Hyper-Casual Game Development Bootcamp** _in 2022._
