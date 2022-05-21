@@ -11,8 +11,8 @@
 >- Created PC platformer game at my **Capstone Course**.
 >- Created mobile augmented reality tower defense game at my **Hardware Internship**.
 >- Completed **Rollic & oFon Hyper-Casual Game Development Bootcamp** _in 2022._
-<br> ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) [Jam Project - Cupid Shop](https://github.com/SenaCelebi/Rollic-Bootcamp-Game-Jam.git)
-<br> ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) [Magic Rush](https://github.com/omerasikoglu/Capstone-Runner) - [Play Store Link](https://play.google.com/store/apps/details?id=com.Haratampa.MagicRush)
+<br>  [Jam Project - Cupid Shop](https://github.com/SenaCelebi/Rollic-Bootcamp-Game-Jam.git)
+<br>  [Magic Rush](https://github.com/omerasikoglu/Capstone-Runner) - [Play Store Link](https://play.google.com/store/apps/details?id=com.Haratampa.MagicRush)
 
 **:dragon_face:What is your hobbies?:dragon_face:**
 > Dragons.. plural..
