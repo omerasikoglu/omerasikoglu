@@ -13,6 +13,7 @@
 >- Completed **Rollic & oFon Hyper-Casual Game Development Bootcamp** _in 2022._
 <br>  [Jam Project - Cupid Shop](https://github.com/SenaCelebi/Rollic-Bootcamp-Game-Jam.git)
 <br>  [Magic Rush](https://github.com/omerasikoglu/Capstone-Runner) - [Play Store Link](https://play.google.com/store/apps/details?id=com.Haratampa.MagicRush)
+>- Completed **MildMania Game Development Workshop** _in 2022._
 
 **:dragon_face:What is your hobbies?:dragon_face:**
 > Dragons.. plural..
