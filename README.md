@@ -1,9 +1,9 @@
 # Hello everyone!:mage:
 ### Omer Asikoglu is here. ***Who am I?***
->I'm an indie game developer which is using **Unity** and **C#** actively.
+>I'm an game developer which is using **Unity** and **C#** actively.
 
 **:four_leaf_clover: What are you doing recently?**
-> Work work.. (2022.10)
+> Work work.. (2023.01)
 
 **:rainbow: What is your achievements?**
 >- Graduated **Sakarya University Computer Engineering Department** _in 2020._
