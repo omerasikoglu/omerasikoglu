@@ -1,6 +1,6 @@
 # Hello everyone!:mage:
 ### Omer Asikoglu is here. ***Who am I?***
->I'm an game developer which is using **Unity** and **C#** actively.
+>I'm a game developer which is using **Unity** and **C#** actively.
 
 **:four_leaf_clover: What are you doing recently?**
 > Work work.. (2023.01)
