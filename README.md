@@ -1,4 +1,4 @@
-# Hello everyone!:mage:
+# Hello everyone!
 ### Omer Asikoglu is here. ***Who am I?***
 >I'm a game developer which is using **Unity** and **C#** actively.
 
