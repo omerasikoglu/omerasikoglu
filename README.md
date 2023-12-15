@@ -12,7 +12,7 @@
 >- Created mobile augmented reality tower defense game at my **Hardware Internship**.
 >- Completed **Rollic & oFon Hyper-Casual Game Development Bootcamp** _in 2022._
 >- Completed **MildMania Game Development Workshop** _in 2022._
->- Worked as a developer at **Joygame** _in 2023._
+>- Worked as a game developer at **Joygame** _in 2023._
 
 **:dragon_face:What is your hobbies?:dragon_face:**
 > Dragons.. plural..
