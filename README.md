@@ -3,7 +3,7 @@
 >I'm a game developer which is using **Unity** and **C#** actively.
 
 **:four_leaf_clover: What are you doing recently?**
-> Working on some project. (2024.02)
+> Working on my game. (2024.03)
 
 **:rainbow: What is your achievements?**
 >- Graduated **Sakarya University Computer Engineering Department** _in 2020._
