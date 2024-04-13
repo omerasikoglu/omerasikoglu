@@ -11,12 +11,6 @@
 >- Achieved **C1 English Certificate** from **American Cultural School** _in 2019._
 >- Created mobile augmented reality tower defense game at my **Hardware Internship**.
 
-
-
-
-**:dragon_face:What is your hobbies?:dragon_face:**
-> Dragons.. plural..
-
 **:tropical_fish: How to reach me?**
 >- https://www.linkedin.com/in/omerasikoglu/
 >- https://martelius.itch.io
