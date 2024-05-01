@@ -3,6 +3,7 @@
 >I'm a game developer which is using **Unity** and **C#** actively.
 
 **:rainbow: What is your achievements?**
+>- Participated **WASD Gaming Event** _in 2024._
 >- Worked as a game developer at **Joygame** _in 2023._
 >- Completed **MildMania Game Development Workshop** _in 2022._
 >- Completed **Rollic & oFon Hyper-Casual Game Development Bootcamp** _in 2022._
